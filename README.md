@@ -65,7 +65,3 @@ The robot uses an Arduino UNO to control four DC motors and an ultrasonic sensor
 
 ---
 
-## Author
-
-**Sai Kiran**
-ECE Student
